@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class Ejercicio13 {
+public class guiaEstruct3 {
 
     public static void main(String[] args) {
         int nota;

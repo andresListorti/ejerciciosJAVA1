@@ -9,7 +9,7 @@ Definir una variable tipoMotor y permitir que el usuario ingrese un valor entre 
 
 import java.util.Scanner;
 
-public class Ejercicio12 {
+public class guiaEsctruc2 {
     public static void main(String[] args) {
         int tipoMotor;
         Scanner leer = new Scanner(System.in);
