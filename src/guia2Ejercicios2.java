@@ -4,7 +4,7 @@ Nota: investigar la función equals() en Java.*/
 
 import java.util.Scanner;
 
-public class Ejercicio9 {
+public class guia2Ejercicios2 {
     public static void main(String[] args) {
         String frase;
         Scanner leer = new Scanner(System.in);

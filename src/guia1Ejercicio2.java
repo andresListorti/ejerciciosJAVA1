@@ -3,7 +3,7 @@
            El programa deberá después mostrar el resultado de la suma */
 import java.util.Scanner;
 
-public class Ejercicio2 {
+public class guia1Ejercicio2 {
   public static void main(String[] args) {
     int num1, num2;
     Scanner leer = new Scanner(System.in);

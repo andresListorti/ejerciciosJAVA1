@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class Ejercicio5 {
+public class guia1Ejercicio5 {
 
     public static void main(String[] args) {
         double gradosC, gradosF;

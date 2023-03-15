@@ -3,7 +3,7 @@
 
 import java.util.Scanner;
 
-public class Ejercicio6 {
+public class guia1Ejercicio6 {
     public static void main(String[] args) {
         int num, numDupli, numTrip;
         double raiz;

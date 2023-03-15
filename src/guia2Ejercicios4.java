@@ -5,7 +5,7 @@
 
 import java.util.Scanner;
 
-public class Ejercicio11 {
+public class guia2Ejercicios4 {
     public static void main(String[] args) {
         String frase;
         Scanner leer = new Scanner(System.in);

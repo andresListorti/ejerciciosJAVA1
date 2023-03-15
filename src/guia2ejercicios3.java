@@ -4,7 +4,7 @@ en caso contrario, se deberá imprimir “INCORRECTO”. Nota: investigar la fun
 
 import java.util.Scanner;
 
-public class Ejercicio10 {
+public class guia2ejercicios3 {
 
     public static void main(String[] args) {
         String frase;

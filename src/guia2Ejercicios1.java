@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class Ejercicio8 {
+public class guia2Ejercicios1 {
     public static void main(String[] args) {
         int num;
         Scanner leer = new Scanner(System.in);
