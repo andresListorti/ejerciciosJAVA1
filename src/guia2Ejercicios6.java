@@ -10,7 +10,7 @@ mensaje de confirmación:
 
 import java.util.Scanner;
 
-public class gui2Ejercicios6 {
+public class guia2Ejercicios6 {
 
     public static void main(String[] args) {
         int num1, num2, opcion;
